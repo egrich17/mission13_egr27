@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Header } from './Header';
 import { HomePage } from './HomePage';
 import { PodcastsPage } from './PodcastsPage';
-import MovieList from './MoviesPage';
+import MovieList from './movie/MovieList';
 
 // app is the parent
 function App() {
